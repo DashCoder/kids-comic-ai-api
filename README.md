@@ -33,7 +33,12 @@ pip install -r requirements.txt
 
 ## Set environment variables
 ```
-
+export AZURE_STORAGE_ACCOUNT=ukfilestore1
+export AZURE_STORAGE_CONTAINER=images
+export AZURE_STORAGE_ACCESS_EXPIRY=2024-08-30T12:00:42Z
+export AZURE_STORAGE_KEY=
+export AZURE_OPENAI_API_KEY=
+export AZURE_OPENAI_ENDPOINT=
 ```
 
 ## Start Application
