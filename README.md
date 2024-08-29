@@ -17,9 +17,21 @@ which python
 pip install -r requirements.txt
 ```
 
+## Set environment variables
+```
+
+```
+
 ## Start Application
 ```
 uvicorn app:app --reload
 ```
+
+
+## Common questions and issues with solutions
+
+# Where do I find Azure Blob API Access Url, Keys, Expiry
+<img width="1248" alt="azure_blob_url" src="https://github.com/user-attachments/assets/6f11c03b-af49-490e-8b50-30cc207740ea">
+
 
 
