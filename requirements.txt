@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+AzureOpenAI
+azure-storage-blob
+azure-identity
