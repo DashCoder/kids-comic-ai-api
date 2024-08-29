@@ -28,9 +28,11 @@ uvicorn app:app --reload
 ```
 
 
-## Common questions and issues with solutions
+# Common questions and issues with solutions
 
-# Where do I find Azure Blob API Access Url, Keys, Expiry
+## Where do I find Azure Blob API Access Url, Keys, Expiry
+Information can be found at settings, security + networking tabs for storage account in Microsoft Azure website
+
 <img width="1248" alt="azure_blob_url" src="https://github.com/user-attachments/assets/6f11c03b-af49-490e-8b50-30cc207740ea">
 
 
