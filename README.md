@@ -1,5 +1,19 @@
-# kids-comic-ai-api
+# kids comic ai api
 Kids Comic Generator API using Azure OpenAI, Python3.7, FastAPI
+
+## Simple example of result generated from API 
+
+## Prompt used on OpenAPI (prev. Swagger) page
+<img width="857" alt="openapi" src="https://github.com/user-attachments/assets/59b9f8e6-e8c8-4af1-9ace-ea9e3ef230c6">
+
+Prompt:
+"Context: whimsical comic about a software engineers called Peter and banker called Rob enjoy basking in the sun. Create page where Peter speach bubble reads no problem, rob speach bubble asking about will it be fixed today"
+
+## Resulting image(s)
+A comic strip should ideally be 5-10 images, however we can also generate single images to post in social media/slack etc.
+![email_fixtoday_slack](https://github.com/user-attachments/assets/d05d16ea-ba5f-4108-83f2-707095c765f8)
+
+
 
 ## Setting up environment
 We suggest creating a virtual environment with venv module that comes with Python.
