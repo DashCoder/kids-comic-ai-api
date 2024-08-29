@@ -3,10 +3,10 @@ Kids Comic Generator API using Azure OpenAI, Python3.7, FastAPI
 
 ## Simple example of result generated from API 
 
-## Prompt used on OpenAPI (prev. Swagger) page
+*Use Postman, front-end app or included OpenAPI (prev. Swagger) page to send prompt over to API*
 <img width="857" alt="openapi" src="https://github.com/user-attachments/assets/59b9f8e6-e8c8-4af1-9ace-ea9e3ef230c6">
 
-Prompt:
+*Example Prompt:*
 "Context: whimsical comic about a software engineers called Peter and banker called Rob enjoy basking in the sun. Create page where Peter speach bubble reads no problem, rob speach bubble asking about will it be fixed today"
 
 ## Resulting image(s)
